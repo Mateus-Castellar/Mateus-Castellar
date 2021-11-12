@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_castellar/)
 
 
-![Mateus Castellar GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Castellar&show_icons=true&theme=dark)
+![Mateus Castellar GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Castellar&show_icons=true&theme=gruvbox)
 
 ## Tecnologias
 
