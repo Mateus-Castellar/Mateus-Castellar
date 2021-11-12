@@ -10,6 +10,5 @@
 
 
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- ![Snake animation](https://github.com/Mateus-Castellar/Mateus-Castellar/blob/output/github-contribution-grid-snake.svg)
 
 Cursando Técnico em Desenvolvimento de sistemas, Buscando aprimorar conhecimentos em C#.
